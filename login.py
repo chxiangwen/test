@@ -4,3 +4,5 @@ c = 3
 
 def index():
 	return 'hello'
+
+abc = 1232
