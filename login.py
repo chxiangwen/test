@@ -10,3 +10,5 @@ abc = 1232
 
 d = 1122
 
+def abc():
+	return a +b
